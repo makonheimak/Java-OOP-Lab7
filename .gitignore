@@ -1,0 +1,22 @@
+# Скомпилированные файлы Java
+*.class
+
+# Файлы отчетов и архивов сдачи
+*.docx
+*.pdf
+*.zip
+
+# Папка со скриншотами для отчетов
+screenshots/
+
+# Файлы среды разработки
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
